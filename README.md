@@ -14,16 +14,7 @@ This project presents the design and simulation of a smart traffic congestion pr
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
-- (Optional) XGBoost / LightGBM (if used in your notebook)
-
+  
 ## 📈 Project Objective
 To demonstrate how IoT and data analytics can be combined to predict traffic congestion, enabling smarter urban planning and intelligent traffic management systems.
 
-## 📁 Project Structure
-- `Design_and_Simulation_of_an_IoT_Based_Traffic_Congestion_Prediction_System_for_Smart_Citie.ipynb`: Main notebook with data processing, model training, and visualizations
-- (You can list datasets or helper scripts if any)
-
-## 🚀 Getting Started
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/BayanDali/Smart_City_Traffic_Congestion_Prediction_System.git
